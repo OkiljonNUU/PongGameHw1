@@ -12,3 +12,4 @@ public class HumanRacket : Racket
         rb.velocity = new Vector2(0, moveAxesValue);
     }
 }
+
