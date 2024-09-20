@@ -16,15 +16,7 @@ public abstract class Racket : MonoBehaviour
         Movement();
 
         #region AnotherMovementOption
-        //if (Input.GetKey("w") || Input.GetKey(KeyCode.UpArrow))
-        //{
-        //    rb.transform.position += Vector3.up;
-        //}
-
-        //if (Input.GetKey("s") || Input.GetKey(KeyCode.DownArrow))
-        //{
-        //    rb.transform.position += Vector3.down;
-        //}
+      
         #endregion
 
     }
