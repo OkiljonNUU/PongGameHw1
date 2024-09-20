@@ -4,24 +4,6 @@
 
 <h1 align="center">PONG GAME</h1>
 
-<p align="center">Ping-Pong game built with Unity !</p>
-
-<p align="center">
-  <a href="https://github.com/enessfk/pong-game/issues">Report Bug</a> · 
-  <a href="https://github.com/enessfk/pong-game/issues">Request Feature</a>
-</p>
-
-## About
-
-This is a simple Ping-Pong game built with Unity Engine using C# for the purpose of study. 
-It basically consists of three different modes; player vs player, AI vs player and AI vs AI.
-
-## Build
-1. Copy https://github.com/enessfk/pong-game.git
-2. Go to your command prompt or terminal. (Make sure you have installed git on your computer)
-3. Type ```git clone https://github.com/enessfk/pong-game.git```
-4. And finally it will be cloned to your computer.
-5. Open it with Unity
 
 ## Screenshots
 
